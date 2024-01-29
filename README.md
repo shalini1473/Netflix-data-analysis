@@ -26,3 +26,7 @@ Analyze the distribution of content ratings.
 
 Examine the growth of content on Netflix over the years.
 Identify trends in the release of movies and TV shows.
+
+DATASET:
+
+The dataset used for this project can be obtained from reputable sources, such as Kaggle or other data repositories. Ensure that the dataset includes relevant information about Netflix content, including titles, genres, release years, ratings, and more.
