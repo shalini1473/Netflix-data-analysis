@@ -18,6 +18,7 @@ Analyze the distribution of content by release year and country.
 
 3.Content Analysis:
 
+
 Identify the most common genres and categories on Netflix.
 Explore the average duration of movies and TV shows.
 Analyze the distribution of content ratings.
