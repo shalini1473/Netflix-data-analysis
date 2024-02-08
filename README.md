@@ -10,6 +10,7 @@ OBJECTIVES:
 Load the Netflix dataset into a suitable data structure.
 Examine and handle missing values, duplicates, and any other data quality issues.
 
+
 2.Exploratory Data Analysis (EDA):
 
 Perform descriptive statistics to understand the basic characteristics of the dataset.
